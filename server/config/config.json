@@ -1,0 +1,49 @@
+{
+  "development": {
+    "username": "eBYXljrYGN",
+    "password": "dgQlGapPTG",
+    "database": "eBYXljrYGN",
+    "host": "remotemysql.com",
+    "port": "3306",
+    "dialect": "mysql",
+    "operatorsAliases": false,
+    "pool": {
+      "max": 100,
+      "min": 0,
+      "acquire": 30000,
+      "idle": 10000
+    },
+    "logging": false
+  },
+  "test": {
+    "username": "eBYXljrYGN",
+    "password": "dgQlGapPTG",
+    "database": "eBYXljrYGN",
+    "host": "remotemysql.com",
+    "port": "3306",
+    "dialect": "mysql",
+    "operatorsAliases": false,
+    "pool": {
+      "max": 100,
+      "min": 0,
+      "acquire": 30000,
+      "idle": 10000
+    }
+  },
+  "production": {
+    "username": "eBYXljrYGN",
+    "password": "dgQlGapPTG",
+    "database": "eBYXljrYGN",
+    "host": "remotemysql.com",
+    "port": "3306",
+    "dialect": "mysql",
+    "operatorsAliases": false,
+    "pool": {
+      "max": 100,
+      "min": 0,
+      "acquire": 30000,
+      "idle": 10000
+    },
+    "logging": false
+  }
+}
